@@ -1,4 +1,4 @@
-# Credits
+  # Credits
 All Credits go to Trsak he is the creator of the script! https://github.com/Trsak
 
 # Important
@@ -12,9 +12,8 @@ Download & Installation
 Download https://github.com/HeyTax/bs_burgershot/tree/main
 Put it in the [esx] directory
 # Installation
-Import esx_burgershot.sql andesx_burgershotitems.sql into your database
-Add this line to your server.cfg somewhere after [esx_basicneeds] &[esx_jobs] :
-start esx_burgershot
+Add this line to your server.cfg somewhere after [esx_inventoryhud] &[esx_inventoryhud_trunk] :
+start bs_bintrunk
 # Extras
 Burgershot MLO https://fivem-mods.net/de/einkaufen/nopixel-3-0-burgershot-karte/
 Taco Van https://gta5-mods.com/vehicles/brute-boxville-mapped-taco-van-replace-add-on-liveries
